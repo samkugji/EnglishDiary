@@ -13,3 +13,8 @@
 - 브랜치 관리는 최대한 깔끔하게(rebase 사용!!)
 - 작업하기 전 현재 브랜치 반드시 확인(develop 브랜치에서는 절대 작업 x)
 - Model은 최대한 뚱뚱하게
+
+
+## 개발기술
+- Django(Python), jQuery(Javascript)
+- [more infomation](http://builtwith.com/?https%3a%2f%2fengdiary.dsds101.info%2f)
